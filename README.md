@@ -6,5 +6,5 @@ regressor, I could obtain 86% of R-Squared.
 
 ## Important notebooks
 1. <a href = "https://github.com/hrishi-ds/Data-Science-Capstone-Project/blob/main/Notebooks/Data%20Exploration.ipynb" > Data Exploration </a>
-2. <a href = "https://github.com/hrishi-ds/Data-Science-Capstone-Project/blob/main/Notebooks/Random%20Forest%20Model.ipynb> Model Training and Evaluation </a>
+2. <a href = "https://github.com/hrishi-ds/Data-Science-Capstone-Project/blob/main/Notebooks/Random%20Forest%20Model.ipynb"> Model Training and Evaluation </a>
 
