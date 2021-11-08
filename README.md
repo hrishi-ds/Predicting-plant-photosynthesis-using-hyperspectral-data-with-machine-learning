@@ -1,6 +1,6 @@
-# Data-Science-Capstone-Project
+# Predicting plant photosynthesis using hyperspectral data
 
-The repository contains work of my Master of Data Science capstone project. For the project, I associated with CSIRO 
+The repository contains work of my Master of Data Science capstone project. For the project, I worked with CSIRO 
 and developed a predictive machine learning model to predict plant(flora) health from hyper-spectral data. With random forest
 regressor, I could obtain 86% of R-Squared. Read more about the project <a href="https://github.com/hrishi-ds/Data-Science-Capstone-Project/tree/main/Presentation%20and%20Report"> here</a>.
 
