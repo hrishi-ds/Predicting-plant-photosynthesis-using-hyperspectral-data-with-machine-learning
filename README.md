@@ -1,4 +1,4 @@
-# Predicting plant photosynthesis using hyperspectral data
+# Predicting plant photosynthesis using hyperspectral data with machine learning
 The repository contains work of my Master of Data Science capstone project. For the project, I worked with CSIRO and developed a predictive machine learning model to predict plant(flora) photosynthesis from hyper-spectral data. 
 
 ## Project abstract
